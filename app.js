@@ -1,5 +1,5 @@
-const clientId = 'e9a94a0f24ae4e8cbd871c0ecc6f2031';
-const clientSecret = '46c6109585d34017881423d96f55974f';
+const clientId = 'secret';
+const clientSecret = 'secret';
 
 const startGameBtn = document.getElementById('start-game');
 const gameContainer = document.getElementById('game-container');
